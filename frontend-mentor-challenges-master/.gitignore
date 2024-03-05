@@ -1,0 +1,12 @@
+.idea
+.DS_Store
+.prettierignore
+*.sketch
+*.fig
+*.xd
+.cache
+dist
+node_modules
+
+# Local Netlify folder
+.netlify
